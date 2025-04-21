@@ -1,0 +1,10 @@
+﻿  DirectXHook.vcxproj -> C:\Users\jovis\Desktop\DirectXHook-9dd16ac88a6a850cf6ca91f401f0eb5bfc543ad3\x64\Release\dxgi.dll
+  Das System kann den angegebenen Pfad nicht finden.
+  Ung³ltige Laufwerkangabe
+  0 Datei(en) kopiert
+  Ung³ltige Laufwerkangabe
+  0 Datei(en) kopiert
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: Der Befehl "COPY "C:\Users\Marius\Documents\Programming\Github repositories\DirectXHook\x64\Release\dxgi.dll" "G:\SteamLibrary\steamapps\common\ELDEN RING\Game\"
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: XCOPY /y "C:\Users\Marius\Documents\Programming\Github repositories\DirectXHook\DirectXHook\hook_textures" "G:\SteamLibrary\steamapps\common\ELDEN RING\Game\hook_textures\"
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: XCOPY /y "C:\Users\Marius\Documents\Programming\Github repositories\DirectXHook\DirectXHook\hook_fonts" "G:\SteamLibrary\steamapps\common\ELDEN RING\Game\hook_fonts\"
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: :VCEnd" wurde mit dem Code 4 beendet.
